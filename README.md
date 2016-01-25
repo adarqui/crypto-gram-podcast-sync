@@ -9,8 +9,8 @@ crypto-gram-05-08.mp3   crypto-gram-07-10.mp3   crypto-gram-09-07.mp3   crypto-g
 
 ## Resources
 
-http://crypto-gram.libsyn.com (http without the s, tehe.)
-https://www.schneier.com/crypto-gram/
+- http://crypto-gram.libsyn.com (http without the s, tehe.)
+- https://www.schneier.com/crypto-gram/
 
 ## Oh.
 
